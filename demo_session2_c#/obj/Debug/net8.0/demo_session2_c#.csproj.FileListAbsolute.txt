@@ -1,0 +1,14 @@
+F:\C# Projects\demo_session2_c#\bin\Debug\net8.0\demo_session2_c#.exe
+F:\C# Projects\demo_session2_c#\bin\Debug\net8.0\demo_session2_c#.deps.json
+F:\C# Projects\demo_session2_c#\bin\Debug\net8.0\demo_session2_c#.runtimeconfig.json
+F:\C# Projects\demo_session2_c#\bin\Debug\net8.0\demo_session2_c#.dll
+F:\C# Projects\demo_session2_c#\bin\Debug\net8.0\demo_session2_c#.pdb
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\demo_session2_c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\demo_session2_c#.AssemblyInfoInputs.cache
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\demo_session2_c#.AssemblyInfo.cs
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\demo_session2_c#.csproj.CoreCompileInputs.cache
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\demo_session2_c#.dll
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\refint\demo_session2_c#.dll
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\demo_session2_c#.pdb
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\demo_session2_c#.genruntimeconfig.cache
+F:\C# Projects\demo_session2_c#\obj\Debug\net8.0\ref\demo_session2_c#.dll
